@@ -2,7 +2,7 @@
 // Include your database connection configuration here
 $hostname = "localhost";
 $username = "root";
-$password = "sri@123###12";
+$password = "#######";
 $database = "myd"; // The name of your database
 
 // Create a database connection
