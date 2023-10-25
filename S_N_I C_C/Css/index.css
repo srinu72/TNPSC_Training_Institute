@@ -1,0 +1,11 @@
+#slideshow li {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0;
+    display: none;
+  }
+  
+  #slideshow li.active {
+    opacity: 1;
+    display: block;
+  }
+  
